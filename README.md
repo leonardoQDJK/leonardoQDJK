@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/LeoDarKnight007) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonardoqdjk) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Leonardoqdjk) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LeonardoQDJK&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![gggg](https://github-readme-stats.vercel.app/api?username=LeonardoQDJK&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoQDJK&theme=great-gatsby&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoQDJK&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
